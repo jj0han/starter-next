@@ -2,6 +2,23 @@
 
 A production-ready Next.js starter kit for new projects. Clone it or use it as a GitHub template to skip boilerplate and start building features on day one.
 
+## Contents
+
+- [What's included](#whats-included)
+- [Getting started](#getting-started)
+  - [Use as a GitHub template](#use-as-a-github-template)
+  - [First steps in a new project](#first-steps-in-a-new-project)
+- [Scripts](#scripts)
+- [Project structure](#project-structure)
+- [tRPC](#trpc)
+- [shadcn/ui](#shadcnui)
+- [Theming](#theming)
+- [Code quality](#code-quality)
+- [Global 404 (experimental)](#global-404-experimental)
+- [Proxy (route protection)](#proxy-route-protection)
+- [Deployment](#deployment)
+- [License](#license)
+
 ## What's included
 
 | Layer | Stack |
